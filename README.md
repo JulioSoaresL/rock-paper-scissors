@@ -1,8 +1,9 @@
 ## Pedra, Papel e Tesoura :punch: :raised_hand: :v:
 
+![preview](assets/inicial.png)
 Aqui está armazenado um jogo simples de pedra, papel e tesoura, feito para rodar em qualquer navegador conectado a internet.
 
-Aproveite e divirta-se...
+[:link: Clique aqui para visitar e divirta-se...](https://juliosoaresl.github.io/rock-paper-scissors/)
 
 ## :computer: Tecnologias
 
